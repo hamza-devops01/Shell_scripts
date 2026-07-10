@@ -1,0 +1,33 @@
+[0;32m********************************************
+*         DEPLOYMENT STARTED              *
+********************************************[0m
+[0;32m==========================================
+Cloning the Django app.....[0m
+[1;33mDirectory already exists, pulling latest changes...[0m
+[0;32m==========================================
+Installing Dependencies......[0m
+[0;32m==========================================
+Configuring Nginx......[0m
+[0;32m==========================================
+Restarting Services......[0m
+[0;32mUsing Docker for deployment[0m
+[0;32m==========================================
+Deploying with Docker......[0m
+[0;32m==========================================
+Checking Deployment......[0m
+[1;33mAttempt 1/10: App not responding yet...[0m
+[1;33mAttempt 2/10: App not responding yet...[0m
+[1;33mAttempt 3/10: App not responding yet...[0m
+[1;33mAttempt 4/10: App not responding yet...[0m
+[1;33mAttempt 5/10: App not responding yet...[0m
+[1;33mAttempt 6/10: App not responding yet...[0m
+[1;33mAttempt 7/10: App not responding yet...[0m
+[1;33mAttempt 8/10: App not responding yet...[0m
+[1;33mAttempt 9/10: App not responding yet...[0m
+[1;33mAttempt 10/10: App not responding yet...[0m
+[0;31m❌ Django app is not responding[0m
+[1;33m=== Django Logs ===[0m
+[1;33m=== Docker Logs ===[0m
+[1;33m=== Port Status ===[0m
+[0;31m❌ Deployment verification failed[0m
+[1;33mCheck logs: deployment_20260705_005553.log[0m
