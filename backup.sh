@@ -2,6 +2,7 @@
 
 <<info
 This shell script will take periodic backup
+can also be use crontab
 e.g
  ./backup.sh <source> <dest>
 src = /home/ubuntu/scripts
