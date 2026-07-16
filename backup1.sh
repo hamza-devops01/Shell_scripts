@@ -1,9 +1,9 @@
 #!/bin/bash
 
 <<readme
-This script for backup wih 5 day rotation.
+This script for backup wih 5 day rotations.
 
-Usages..
+Usages.....
 ./backup1.sh <path of your source> <path of your destination>
 readme
 
