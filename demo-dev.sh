@@ -5,8 +5,4 @@ This is new Line
 
 This commit is fine
 
-
-
 This commit is also fine
-
-
