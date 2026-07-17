@@ -9,5 +9,6 @@ echo "We are learning git "
 date
 
 
+whoami
 This is a fine
 
